@@ -19,7 +19,7 @@ Once you have installed the Copilotly extension, you will be prompted to create 
 
 ## Step 3: Start Using Copilotly
 
-Once you have created your Copilotly account, you are ready to start using Copilotly. You can start by visiting the [Getting Started](getting-started.md) page.
+Once you have created your Copilotly account, you are ready to start using Copilotly. You can start by visiting the [User Guide](/resources/category/user-guide) to learn more about Copilotly.
 
 ### To get started
 
