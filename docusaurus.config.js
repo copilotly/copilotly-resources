@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Resources",
+  title: "Copilotly | Resources",
   tagline: "",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://resources.copilotly.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -32,8 +32,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://resources.copilotly.com",
+          path: "resources",
+          routeBasePath: "resources",
+        },
+        blog: {
+          path: "copilots",
+          routeBasePath: "copilots",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -60,6 +64,11 @@ const config = {
           {
             href: "https://github.com/copilotly/resources",
             label: "GitHub",
+            position: "right",
+          },
+          {
+            href: "https://www.copilotly.com/?utm_source=resources&utm_medium=referral&utm_campaign=resources",
+            label: "Home",
             position: "right",
           },
         ],
