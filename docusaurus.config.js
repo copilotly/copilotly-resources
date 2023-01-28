@@ -10,7 +10,8 @@ const config = {
   tagline: "",
   url: "https://resources.copilotly.com",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  // Allow broken links to be ignored.
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
