@@ -57,6 +57,16 @@ const config = {
         },
         items: [
           {
+            href: "/resources/quick-start",
+            label: "Resources",
+            position: "left",
+          },
+          {
+            href: "/copilots",
+            label: "Copilots",
+            position: "left",
+          },
+          {
             href: "https://discord.gg/tS8qddMhXa",
             label: "Discord",
             position: "right",
@@ -77,15 +87,19 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Resources",
+            title: "Shortcuts",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Quick Start",
+                to: "/resources/quick-start",
               },
               {
-                label: "Our Blog",
-                href: "https://www.copilotly.com/blog",
+                label: "Installation",
+                href: "/resources/installation",
+              },
+              {
+                label: "Copilots",
+                href: "/copilots",
               },
             ],
           },

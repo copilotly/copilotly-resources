@@ -12,15 +12,13 @@ Installing Copilotly for Chrome Web Browser is easy and requires just a couple s
 
 ### Step 1: Find Copilotly Extension in Chrome Web Store
 
-Navigate to Copilotly Extension and click on Add to Chrome button.
+- Navigate to [Copilotly Extension](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1).
 
-Click on the **Add To Chrome** button
+- Click on the **Add To Chrome** button as shown below.
 
 ![Add to chrome](./img/add-to-chrome.png)
 
-For faster access, click on the Pin icon to keep the Avana Wallet extension on your toolbar.
-
-Pin Copilotly to your browser toolbar after you install it.
+- For faster access, click on the Pin icon to keep the Avana Wallet extension on your toolbar.
 
 ![Pin to toolbar](./img/pin.png)
 
