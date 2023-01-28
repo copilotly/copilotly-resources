@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Copilotly Resources",
+  title: "Resources",
   tagline: "",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
@@ -35,10 +35,6 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://resources.copilotly.com",
         },
-        blog: {
-          showReadingTime: true,
-          editUrl: "https://www.copilotly.com/blog",
-        },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -50,18 +46,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Resources",
+        title: "",
         logo: {
           alt: "Copilotly Logo",
-          src: "img/logo.png",
+          src: "img/logo-text.png",
         },
         items: [
-          {
-            type: "doc",
-            docId: "intro",
-            position: "left",
-            label: "Tutorial",
-          },
           {
             href: "https://discord.gg/tS8qddMhXa",
             label: "Discord",
@@ -130,6 +120,11 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
     }),
 };
