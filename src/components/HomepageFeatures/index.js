@@ -79,7 +79,7 @@ const HomepageFeatures = () => {
 
               <a
                 className="button button--primary button--lg"
-                href="/resources/user-guide"
+                href="/resources/category/user-guide"
                 style={{
                   margin: "1rem 1rem 1rem 0",
                   width: "170px",

@@ -18,7 +18,7 @@ Installing Copilotly for Chrome Web Browser is easy and requires just a couple s
 
 ![Add to chrome](./img/add-to-chrome.png)
 
-- For faster access, click on the Pin icon to keep the Avana Wallet extension on your toolbar.
+- For faster access, **click on the pin icon** to keep the Copilotly extension on your toolbar.
 
 ![Pin to toolbar](./img/pin.png)
 
