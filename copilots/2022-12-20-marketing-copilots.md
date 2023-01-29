@@ -7,7 +7,7 @@ tags: [copilot, marketing]
 
 ## Marketing Copilots
 
- Write Effective Marketing Materials
+Write Effective Marketing Materials
 
 With the help of Copilotly's marketing copilots, you can easily create powerful and effective marketing materials. Whether you're looking to write a tagline, slogan, marketing message, survey, offer, or press release, these copilots can help you craft compelling marketing content with ease. Here are the marketing copilots that you'll find incredibly helpful:
 
