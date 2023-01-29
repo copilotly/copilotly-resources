@@ -38,13 +38,15 @@ Once you have selected the category and copilot, you can click on the “Generat
 
 ## Additional Features
 
-You can also regenerate the text by clicking on the “Regenerate” button. You can also continue generating text by clicking on the “Continue Generation” button.
-
 ## Step 7A: Continue Generation
+
+If you want to continue generating text, you can click on the “Continue Generation” button. This will generate more text based on the same category and copilot.
 
 ![Continue Generation](./img/continue-gen.png)
 
 ## Step 7B: Regenerate
+
+If you want to regenerate the text, you can click on the “Regenerate” button. This will generate a new text based on the same category and copilot.
 
 ![Regenerate](./img/regenerate.png)
 
