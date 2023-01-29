@@ -9,7 +9,7 @@ tags: [copilot, search]
 
 Enhance Your Knowledge and Understanding.
 
-Search copilots are an essential tool for anyone who wants to stay informed and knowledgeable. With Copilotly, you can easily access information and answers to your questions, no matter how complex. Here are four search copilots that you'll find incredibly helpful:
+Search copilots are an essential tool for anyone who wants to stay informed and knowledgeable. With Copilotly, you can easily access information and answers to your questions, no matter how complex. Here are search copilots that you'll find incredibly helpful:
 
 ### (1) Tell Me More About
 

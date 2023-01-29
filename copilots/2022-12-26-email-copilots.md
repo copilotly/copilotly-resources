@@ -9,7 +9,7 @@ tags: [copilot, email]
 
 Craft Professional and Effective Emails with Ease.
 
-Email is a crucial part of modern communication, and it's essential to make sure your messages are professional and effective. Copilotly's email copilots are designed to help you write emails that get results. From composing a well-crafted subject line to writing a closing that elicits action, these copilots will help you create emails that stand out from the crowd. Here are the seven email copilots you can use to improve your email writing skills:
+Email is a crucial part of modern communication, and it's essential to make sure your messages are professional and effective. Copilotly's email copilots are designed to help you write emails that get results. From composing a well-crafted subject line to writing a closing that elicits action, these copilots will help you create emails that stand out from the crowd. Here are the email copilots you can use to improve your email writing skills:
 
 ### (1) Write an email about
 

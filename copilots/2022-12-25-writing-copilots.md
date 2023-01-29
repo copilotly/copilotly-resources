@@ -9,7 +9,7 @@ tags: [copilot, writing]
 
 Elevate Your Writing to the Next Level
 
-Are you tired of struggling to find the right words or worrying about grammar and spelling mistakes in your writing? Look no further! With Copilotly's writing copilots, you can improve your writing with ease. Here are seven writing copilots that will help you take your writing to the next level:
+Are you tired of struggling to find the right words or worrying about grammar and spelling mistakes in your writing? Look no further! With Copilotly's writing copilots, you can improve your writing with ease. Here are writing copilots that will help you take your writing to the next level:
 
 ### (1) Synonyms for
 
