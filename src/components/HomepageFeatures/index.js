@@ -90,7 +90,7 @@ const HomepageFeatures = () => {
 
               <a
                 className="button button--primary button--lg"
-                href="/copilots"
+                href="/copilots/welcome"
                 style={{
                   margin: "1rem 1rem 1rem 0",
                   width: "170px",

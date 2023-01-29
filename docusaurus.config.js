@@ -63,7 +63,7 @@ const config = {
             position: "left",
           },
           {
-            href: "/copilots",
+            href: "/copilots/welcome",
             label: "Copilots",
             position: "left",
           },
@@ -104,7 +104,7 @@ const config = {
               },
               {
                 label: "Copilots",
-                href: "/copilots",
+                href: "/copilots/welcome",
               },
             ],
           },
