@@ -39,6 +39,9 @@ const config = {
         blog: {
           path: "copilots",
           routeBasePath: "copilots",
+          blogSidebarCount: "ALL",
+          blogSidebarTitle: "Copilots",
+          showReadingTime: true,
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

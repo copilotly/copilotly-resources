@@ -1,8 +1,9 @@
 ---
+order: 1
 slug: welcome
 title: Welcome
 authors: [dpacman]
-tags: [facebook, hello, docusaurus]
+tags: [copilotly, artificial intelligence, copilots, productivity]
 ---
 
 ## Copilots, copilots, copilots, what are they?
