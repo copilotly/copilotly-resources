@@ -96,7 +96,11 @@ const config = {
               },
               {
                 label: "Installation",
-                href: "/resources/installation",
+                href: "/resources/category/installation",
+              },
+              {
+                label: "User Guide",
+                href: "/resources/category/user-guide",
               },
               {
                 label: "Copilots",
