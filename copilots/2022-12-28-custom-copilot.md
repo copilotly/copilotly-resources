@@ -1,6 +1,6 @@
 ---
-slug: custom-copilots
-title: Custom Copilots
+slug: custom-copilot
+title: Custom Copilot
 authors: [dpacman]
 tags: [copilot, custom]
 ---
