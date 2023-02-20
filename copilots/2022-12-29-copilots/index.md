@@ -6,7 +6,7 @@ authors: [dpacman]
 tags: [copilotly, artificial intelligence, copilots, productivity]
 ---
 
-## Copilots, copilots, copilots, what are they?
+## Copilots, what are they?
 
 Copilots are AI-powered assistants that help you perform various tasks in a more efficient and effective manner. They are designed to work alongside you, helping you achieve more in less time. With Copilotly, you get access to a wide range of copilots that can help you with a variety of tasks, including searching, writing, emailing, and text manipulation.
 

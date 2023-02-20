@@ -1,11 +1,11 @@
 ---
-slug: custom-copilot
-title: Custom Copilot
+slug: custom-command-copilot
+title: Custom Command Copilot
 authors: [dpacman]
 tags: [copilot, custom]
 ---
 
-## Custom Copilot
+## Custom Command Copilot
 
 Create Personalized Commands for Specific Tasks
 
