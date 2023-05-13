@@ -10,7 +10,7 @@ Let's get started with your Copilotly AI with **3 fast and easy steps**.
 
 <!-- Chrome store link: https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1 -->
 
-Get started by installing the Copilotly extension for [Chrome](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1), Firefox, [Brave](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1), and [Edge](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1) browsers.
+Get started by installing the Copilotly extension for [Chrome](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/copilotly-1/), [Brave](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1), [Opera](https://addons.mozilla.org/en-US/firefox/addon/copilotly-1/) and [Edge](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1) browsers.
 
 ## Step 2: Setup Your Copilotly Account
 
@@ -23,8 +23,8 @@ Once you have created your Copilotly account, you are ready to start using Copil
 
 ### To get started
 
- **(1)** Highlight text on any website, an icon would appear on top of the selected text.
+ **(1)** <b>Highlight text on any website</b>, an icon would appear on top of the selected text.
 
- **(2)** Click on the icon to open a widget, where your highlighted text would be present in a text box.
+ **(2)** <b>Click on the icon to open a widget</b>, where your highlighted text would be present in a text box.
 
  **(3)** Select the category (general, email, blog, manipulate) and the copilot of your choice to generate.

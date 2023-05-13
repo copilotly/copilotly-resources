@@ -1,22 +1,22 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
-# Firefox
+# Edge
 
-Visit the [FireFox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/copilotly-1/) to install Copilotly for Firefox.
+**NOTE: Edge supports chrome extensions**. Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1) to install Copilotly for Edge.
 
 ## Installation
 
-Installing Copilotly for FireFox Browser is easy and requires just a couple steps.
+Installing Copilotly for Chrome Web Browser is easy and requires just a couple steps.
 
 ### Step 1: Find Copilotly Extension in Chrome Web Store
 
-- Navigate to [Copilotly Extension](https://addons.mozilla.org/en-US/firefox/addon/copilotly-1/).
+- Navigate to [Copilotly Extension](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1).
 
 - Click on the **Add To Chrome** button as shown below.
 
-![Add to firefox](./img/add-to-chrome.png)
+![Add to chrome](./img/add-to-chrome.png)
 
 - For faster access, **click on the pin icon** to keep the Copilotly extension on your toolbar.
 

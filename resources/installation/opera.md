@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
-# Chrome Web Store
+# Opera
 
 The Chrome Web Store supports extensions for Chrome, Brave and Edge browsers.
 
