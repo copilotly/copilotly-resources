@@ -12,6 +12,19 @@ Let's get started with your Copilotly AI with **3 fast and easy steps**.
 
 Get started by installing the Copilotly extension for [Chrome](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/copilotly-1/), [Brave](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1), [Opera](https://addons.mozilla.org/en-US/firefox/addon/copilotly-1/) and [Edge](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1) browsers.
 
+<!-- Image  -->
+![Supported Browsers](./img/browsers.png)
+
+- Chrome: <https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1>
+
+- Firefox: <https://addons.mozilla.org/en-US/firefox/addon/copilotly-1/>
+
+- Brave: <https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1>
+
+- Opera: <https://addons.mozilla.org/en-US/firefox/addon/copilotly-1/>
+
+- Edge: <https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1>
+
 ## Step 2: Setup Your Copilotly Account
 
 Once you have installed the Copilotly extension, you will be prompted to create a Copilotly account. You can also create an account by visiting
