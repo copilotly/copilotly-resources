@@ -8,7 +8,7 @@ Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/copilotly
 
 ## Installation
 
-Installing Copilotly for Chrome Web Browser is easy and requires just a couple steps.
+Installing Copilotly for Chrome Browser is easy and requires just a couple steps.
 
 ### Step 1: Find Copilotly Extension in Chrome Web Store
 

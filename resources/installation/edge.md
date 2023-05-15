@@ -8,13 +8,13 @@ sidebar_position: 5
 
 ## Installation
 
-Installing Copilotly for Chrome Web Browser is easy and requires just a couple steps.
+Installing Copilotly for Edge Browser is easy and requires just a couple steps.
 
 ### Step 1: Find Copilotly Extension in Chrome Web Store
 
 - Navigate to [Copilotly Extension](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1).
 
-- Click on the **Add To Chrome** button as shown below.
+- Click on the **Add To Chrome** button as shown below to add to your Edge Browser.
 
 ![Add to chrome](./img/add-to-chrome.png)
 

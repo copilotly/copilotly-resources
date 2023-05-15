@@ -10,17 +10,18 @@ Visit the [FireFox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/copil
 
 Installing Copilotly for FireFox Browser is easy and requires just a couple steps.
 
-### Step 1: Find Copilotly Extension in Chrome Web Store
+### Step 1: Find Copilotly Extension in FireFox Add-Ons
 
 - Navigate to [Copilotly Extension](https://addons.mozilla.org/en-US/firefox/addon/copilotly-1/).
 
-- Click on the **Add To Chrome** button as shown below.
+- Click on the **Add To Firefox** button as shown below.
 
-![Add to firefox](./img/add-to-chrome.png)
+![Add to firefox](./img/fire-1.png)
+![Pin to toolbar](./img/fire-2.png)
 
 - For faster access, **click on the pin icon** to keep the Copilotly extension on your toolbar.
 
-![Pin to toolbar](./img/pin.png)
+![Pin to toolbar](./img/fire-3.png)
 
 ### Step 2: Create Copilotly Account
 

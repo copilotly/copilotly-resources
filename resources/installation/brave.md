@@ -8,19 +8,20 @@ sidebar_position: 3
 
 ## Installation
 
-Installing Copilotly for Brave Web Browser is easy and requires just a couple steps.
+Installing Copilotly for Brave Browser is easy and requires just a couple steps.
 
 ### Step 1: Find Copilotly Extension in Chrome Web Store
 
 - Navigate to [Copilotly Extension](https://chrome.google.com/webstore/detail/copilotly-your-personal-a/fnpfnkfggchkcaheehdgmdapnomokajo?hl=en&authuser=1).
 
-- Click on the **Add To Chrome** button as shown below.
+- Click on the **Add To Brave** button as shown below to add to your Brave Browser.
 
-![Add to chrome](./img/add-to-chrome.png)
+![Add to chrome](./img/brave-1.png)
+![Pin to toolbar](./img/brave-2.png)
 
 - For faster access, **click on the pin icon** to keep the Copilotly extension on your toolbar.
 
-![Pin to toolbar](./img/pin.png)
+![Pin to toolbar](./img/brave-3.png)
 
 ### Step 2: Create Copilotly Account
 
