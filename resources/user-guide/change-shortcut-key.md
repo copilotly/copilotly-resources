@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
-# For Chrome/Brave/Opera/Edge
+# Change Shortcut Key
 
 1. Go to `chrome://extensions/shortcuts` in your browser.
 
