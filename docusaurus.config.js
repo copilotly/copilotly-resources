@@ -6,11 +6,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Copilotly Resources",
+  title: "Copilotly | Resources",
   tagline: "",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://resources.copilotly.com",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  // Allow broken links to be ignored.
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
@@ -32,12 +33,15 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://resources.copilotly.com",
+          path: "resources",
+          routeBasePath: "resources",
         },
         blog: {
+          path: "copilots",
+          routeBasePath: "copilots",
+          blogSidebarCount: "ALL",
+          blogSidebarTitle: "Copilots",
           showReadingTime: true,
-          editUrl: "https://www.copilotly.com/blog",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -50,17 +54,21 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Resources",
+        title: "",
         logo: {
           alt: "Copilotly Logo",
-          src: "img/logo.png",
+          src: "img/logo-text.png",
         },
         items: [
           {
-            type: "doc",
-            docId: "intro",
+            href: "/resources/quick-start",
+            label: "Resources",
             position: "left",
-            label: "Tutorial",
+          },
+          {
+            href: "/copilots/welcome",
+            label: "Copilots",
+            position: "left",
           },
           {
             href: "https://discord.gg/USz9MNW2Ed",
@@ -72,21 +80,34 @@ const config = {
             label: "GitHub",
             position: "right",
           },
+          {
+            href: "https://www.copilotly.com/?utm_source=resources&utm_medium=referral&utm_campaign=resources",
+            label: "Home",
+            position: "right",
+          },
         ],
       },
       footer: {
         style: "dark",
         links: [
           {
-            title: "Resources",
+            title: "Shortcuts",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Quick Start",
+                to: "/resources/quick-start",
               },
               {
-                label: "Our Blog",
-                href: "https://www.copilotly.com/blog",
+                label: "Installation",
+                href: "/resources/category/installation",
+              },
+              {
+                label: "User Guide",
+                href: "/resources/category/user-guide",
+              },
+              {
+                label: "Copilots",
+                href: "/copilots/welcome",
               },
             ],
           },
@@ -130,6 +151,11 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
     }),
 };
